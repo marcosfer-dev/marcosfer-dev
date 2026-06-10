@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Eu sou o Marcos.<br><br>Desenvolvedor Backend, programo em Java, Spring Boot, experiência em PostegreSQL e SQL Server</p>
+<p align="left">Eu sou o Marcos.<br><br>Desenvolvedor Backend | Java | Spring Boot | PostegreSQL | SQL Server</p>
 
 ###
 
